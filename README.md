@@ -9,6 +9,7 @@ de remonter au RaspberryPi diverses informations :
 - Tension d'alimentation 3,3V issu du RaspberryPi
 - Température par CTN externes (2 canaux)
 les tensions sont remontées par un ADS1115 sur le bus I2C (Ad 0x48 par défaut)
+
 de commander le RaspberryPi :
 - 3 boutons (GPIO 20, 21, 12)
 
