@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ARRA_Rpi_Dashboard_crees")(type "KiCad")(uri "${KIPRJMOD}/librairies/symboles/ARRA_Rpi_Dashboard_crees.kicad_sym")(options "")(descr ""))
+)

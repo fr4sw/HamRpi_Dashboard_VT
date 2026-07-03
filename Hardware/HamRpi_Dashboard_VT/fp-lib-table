@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ARRA_Rpi_Dashboard")(type "KiCad")(uri "${KIPRJMOD}/librairies/Footprint/HamRpi_Dashboard_VT.pretty")(options "")(descr "Spécifique"))
+  (lib (name "Connecteurs_NetName")(type "KiCad")(uri "${KIPRJMOD}/librairies/Footprint/Connecteurs_NetName.pretty")(options "")(descr "Connecteurs avec Pins nommées par Netname et Nom par valeur"))
+)
